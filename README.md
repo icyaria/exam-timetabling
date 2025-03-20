@@ -2,7 +2,7 @@
 
 ## Exam Timetabling Problem
 
-This repository contains a solution to the [Exam Timetabling Problem](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://cgi.di.uoa.gr/~ys02/askiseis2024/h3-2024.pdf) using **Constraint Satisfaction Problems (CSPs)**. It was part of the 2024-2025 [AI1 course](https://cgi.di.uoa.gr/~ys02/) The goal is to generate an exam timetable for a given set of courses, professors, and constraints, such as room availability, professor schedules, and student workload, all while adhering to specific rules like avoiding conflicts between courses from the same semester or professor.
+This repository contains a solution to the [Exam Timetabling Problem](https://docs.google.com/document/d/1pUqw3_9tcPo4oDqnvtGTVU85PhRdGxLzVUApBY4zHP4/edit?tab=t.0) using **Constraint Satisfaction Problems (CSPs)**. It was part of the 2024-2025 [AI1 course](https://cgi.di.uoa.gr/~ys02/) The goal is to generate an exam timetable for a given set of courses, professors, and constraints, such as room availability, professor schedules, and student workload, all while adhering to specific rules like avoiding conflicts between courses from the same semester or professor.
 
 ### Problem Definition
 
